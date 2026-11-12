@@ -19,8 +19,4 @@ All of them: [automation-portfolio](https://github.com/basartuncay/automation-po
 
 #### Agent security
 
-I also study how LLM agents fail and how to stop them: [Firebreak](https://github.com/basartuncay/firebreak) (a provenance-aware gateway for MCP), [Cordon](https://github.com/basartuncay/Cordon) (a CaMeL-style agent with an honest evaluation, negative findings included) and [CodeAtlas](https://github.com/basartuncay/CodeAtlas). Reviews for teams shipping Claude agents: [basartuncay.github.io](https://basartuncay.github.io/).
-
-#### Work with me
-
-Fixed-scope projects of one to four weeks, delivered with tests and a short handover video. Start from the [project page](https://basartuncay.github.io/automation/#contact).
+I also study how LLM agents fail and how to stop them: [Firebreak](https://github.com/basartuncay/firebreak) (a provenance-aware gateway for MCP), [Cordon](https://github.com/basartuncay/Cordon) (a CaMeL-style agent with an honest evaluation, negative findings included) and [CodeAtlas](https://github.com/basartuncay/CodeAtlas). More on [basartuncay.github.io](https://basartuncay.github.io/).
