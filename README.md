@@ -19,8 +19,16 @@ All of them: [automation-portfolio](https://github.com/basartuncay/automation-po
 
 #### Agent security
 
-I also study how LLM agents fail and how to stop them: [Firebreak](https://github.com/basartuncay/firebreak) (a provenance-aware gateway for MCP), [Cordon](https://github.com/basartuncay/Cordon) (a CaMeL-style agent with an honest evaluation, negative findings included) and [CodeAtlas](https://github.com/basartuncay/CodeAtlas). Reviews for teams shipping Claude agents: [basartuncay.github.io](https://basartuncay.github.io/).
+I also study how LLM agents fail and how to stop them: [Firebreak](https://github.com/basartuncay/firebreak) (a provenance-aware gateway for MCP), [Cordon](https://github.com/basartuncay/Cordon) (a CaMeL-style agent with an honest evaluation, negative findings included) and [CodeAtlas](https://github.com/basartuncay/CodeAtlas). Write-ups: [basartuncay.github.io](https://basartuncay.github.io/).
 
-#### Work with me
+#### Case studies
 
-Fixed-scope projects of one to four weeks, delivered with tests and a short handover video. Start from the [project page](https://basartuncay.github.io/automation/#contact).
+Three projects with their honest status (private repos, demo on request), on the [portfolio site](https://basartuncay.github.io/#cases):
+
+- **Agent company**: sandboxed Claude agents on launchd with a constitution, capped budgets and a ledger; phone inbox to sourced notes. Built, partly proven.
+- **Clipper**: a clip factory for permitted livestreams. Proven offline, live run pending.
+- **StillSolved**: an archive of Apple Support Community answers before the forum closes on 20 November 2026. Not launched yet.
+
+#### Get in touch
+
+Questions about a project? Open an issue on one of the repos above or start from the [portfolio site](https://basartuncay.github.io/#contact).
