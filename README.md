@@ -23,12 +23,13 @@ I also study how LLM agents fail and how to stop them: [Firebreak](https://githu
 
 #### Case studies
 
-Three projects with their honest status (private repos, demo on request), on the [portfolio site](https://basartuncay.github.io/#cases):
+Four recent projects, each with how I tested it and its honest status, on the [portfolio site](https://basartuncay.github.io/#cases) (private repos, demo on request):
 
-- **Agent company**: sandboxed Claude agents on launchd with a constitution, capped budgets and a ledger; phone inbox to sourced notes. Built, partly proven.
-- **Clipper**: a clip factory for permitted livestreams. Proven offline, live run pending.
-- **StillSolved**: an archive of Apple Support Community answers before the forum closes on 20 November 2026. Not launched yet.
+- **StillSolved** (launching, domain pending): keeps Apple Support Community answers findable after the forum closes on 20 November 2026. Python stdlib, SQLite FTS5; 164,695 threads indexed and 529 tests as of 19 November.
+- **Service shutdown registry and repo scanner** (launching soon): a registry of announced service shutdowns plus an offline scanner that flags hard-coded deprecated AI model IDs. 43 entries, 41 checked against the vendor's own page.
+- **Clipper** (private, in daily use): highlight clips from permitted livestreams with Whisper, Claude and ffmpeg; I approve every clip. 249 tests.
+- **Agent company** (private): sandboxed Claude agents on launchd with a constitution, capped budgets and a ledger; phone inbox to sourced notes.
 
 #### Get in touch
 
-Questions about a project? Open an issue on one of the repos above or start from the [portfolio site](https://basartuncay.github.io/#contact).
+Looking for a Werkstudent role in Python, TypeScript or AI automation. Questions about a project? Open an issue on one of the repos above or start from the [portfolio site](https://basartuncay.github.io/#contact).
