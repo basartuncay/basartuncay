@@ -2,7 +2,7 @@
 
 I build **automations that run unattended and ask a person only when it matters**: integrations between shops, CRMs, payment and accounting tools, AI agents with limits enforced in code, and data pipelines with tests that stop bad numbers. Based in Karlsruhe, Germany; working in English, German and Turkish.
 
-**▶ [Watch the systems running](https://basartuncay.github.io/automation/)**: 16 projects, each recorded from the real software, each tested end to end in CI.
+**▶ [Watch the systems running](https://basartuncay.github.io/)**: 16 projects, each recorded from the real software, each tested end to end in CI.
 
 #### A few of them
 
