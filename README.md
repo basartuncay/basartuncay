@@ -26,7 +26,7 @@ I also study how LLM agents fail and how to stop them: [Firebreak](https://githu
 Four recent projects, each with how I tested it and its honest status, on the [portfolio site](https://basartuncay.github.io/#cases) (private repos, demo on request):
 
 - **StillSolved** (launching, domain pending): keeps Apple Support Community answers findable after the forum closes on 20 November 2026. Python stdlib, SQLite FTS5; 164,695 threads indexed and 529 tests as of 19 November.
-- **Service shutdown registry and repo scanner** (launching soon): a registry of announced service shutdowns plus an offline scanner that flags hard-coded deprecated AI model IDs. 43 entries, 41 checked against the vendor's own page.
+- **Service shutdown registry and repo scanner** (launching soon): a registry of announced service shutdowns plus an offline scanner that flags hard-coded deprecated AI model IDs. 216 entries, 214 checked against the vendor’s own page.
 - **certcadence** (launching soon): finds domains whose TLS renewals will break under the shorter certificate caps, from Certificate Transparency history. 69 tests; in a 20 November snapshot, 25 of the DAX 40 main domains were at risk.
 - **Agent company** (private): sandboxed Claude agents on launchd with a constitution, capped budgets and a ledger; phone inbox to sourced notes.
 
