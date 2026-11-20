@@ -32,4 +32,4 @@ Four recent projects, each with how I tested it and its honest status, on the [p
 
 #### Get in touch
 
-Looking for a Werkstudent role in Python, TypeScript or AI automation. Questions about a project? Open an issue on one of the repos above or start from the [portfolio site](https://basartuncay.github.io/#contact).
+Questions about a project? Open an issue on one of the repos above or start from the [portfolio site](https://basartuncay.github.io/#contact).
